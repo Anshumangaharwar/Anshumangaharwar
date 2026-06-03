@@ -3,7 +3,7 @@
 💻 Passionate about Python Programming and Software Development
 🌱 Currently learning Python, SQL, Data Structures & AI/ML concepts
 🚀 Building projects to improve problem-solving and development skills
-📫 Connect with me on [LinkedIn](www.linkedin.com/in/anshuman-singh-gaharwar-51883832b)
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/anshuman-singh-gaharwar-51883832b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Anshuman-singh-gaharwar-51883832b) 
